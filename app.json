@@ -3,8 +3,6 @@
     "name": "weather-forecast",
     "slug": "weather-forecast",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
